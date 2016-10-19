@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Steven Ayers"]
   spec.email         = ["steveay99@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = 'Checks a web page for 200 Status code response'
+  spec.description   = 'Checks a web page for 200 Status code response'
+  spec.homepage      = "https://github.com/Stevea37/sensu-plugins-web-response"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
